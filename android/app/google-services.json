@@ -1,0 +1,201 @@
+{
+  "project_info": {
+    "project_number": "700925272298",
+    "firebase_url": "https://cit-ecommerce-vn-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cit-ecommerce-vn",
+    "storage_bucket": "cit-ecommerce-vn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:a3d3f576954751054db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.ecomecrce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:33ad08186f59f2854db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.ecomecrce.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:a4fa0538ec2bc2294db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:81ac527168aa540c4db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.ecommerce.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:c0f14668bb5297704db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.eshop.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:354b79046cb589d34db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.eshop.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:eb6d6c5812df911c4db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.posapp.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:7748ce3a9e9564d14db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.posapp.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:ef741ff658cced234db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.posapp.web"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700925272298:android:eabfe1b39a8bccbb4db793",
+        "android_client_info": {
+          "package_name": "com.citgroupvn.webbanhang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVjhYFSKd9T3enyrhBLiECBKXUmyDXjx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
