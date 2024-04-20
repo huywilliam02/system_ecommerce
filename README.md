@@ -1,4 +1,4 @@
-# CIT GROUP ECOMMERCE USER
+#  ECOMMERCE USER
 
 A new Flutter application.
 
